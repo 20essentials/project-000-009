@@ -1,0 +1,2 @@
+console.log("Tony Soprano -> ", "https://www.slashfilm.com/img/gallery/james-gandolfini-had-constant-doubts-about-playing-tony-soprano/intro-1710519097.jpg");
+console.log("Simpson: ", "https://wallhaven.cc/w/0qk5pr");
